@@ -21,5 +21,6 @@
 +	Редактировать товары в магазине
 +	Удалить товары из магазина
 ## Модель базы данных
-![image](https://user-images.githubusercontent.com/104374839/198366851-23398c07-c4f6-4256-8b30-96f7ebfd0e23.png)
+![image](https://user-images.githubusercontent.com/104374839/198369571-08f86594-7bdd-4be8-ac26-6c769a189b57.png)
+
 
