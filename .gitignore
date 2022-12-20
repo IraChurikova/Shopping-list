@@ -1,4 +1,95 @@
-**/.vs
-**/bin
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Codespaces
+Marketplace
+Explore
+ 
+@IraChurikova 
+/
+shop-list
+Public
+Code
+Issues
+Pull requests
+Actions
+Projects
+Security
+Insights
+shop-list/.gitignore
+@IraChurikova 
+IraChurikova  task4
+Latest commit 2de8787 last week
+ History
+ 1 contributor
+53 lines (53 sloc)  2.73 KB
+
+shop-list.Entities/Context.cs
+shop-list.Entities/shop-list.Entities.csproj
+shop-list.Entities/Models/Admin.cs
+shop-list.Entities/Models/BaseEntity.cs
+shop-list.Entities/Models/Channel.cs
+shop-list.Entities/Models/Programa.cs
+shop-list.Entities/Models/User.cs
+shop-list.Entities/Models/Users_Channel_list.cs
+shop-list.Entities/obj/project.assets.json
+shop-list.Entities/obj/project.nuget.cache
+shop-list.Entities/obj/shop-list.Entities.csproj.nuget.dgspec.json
+shop-list.Entities/obj/shop-list.Entities.csproj.nuget.g.props
+shop-list.Entities/obj/shop-list.Entities.csproj.nuget.g.targets
+shop-list.Entities/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+shop-list.Entities/obj/Debug/net6.0/project.razor.json
+shop-list.Entities/obj/Debug/net6.0/shop-list.Entities.AssemblyInfo.cs
+shop-list.Entities/obj/Debug/net6.0/shop-list.Entities.AssemblyInfoInputs.cache
+shop-list.Entities/obj/Debug/net6.0/shop-list.Entities.assets.cache
+shop-list.Entities/obj/Debug/net6.0/shop-list.Entities.csproj.AssemblyReference.cache
+shop-list.Entities/obj/Debug/net6.0/shop-list.Entities.csproj.CoreCompileInputs.cache
+shop-list.Entities/obj/Debug/net6.0/shop-list.Entities.csproj.FileListAbsolute.txt
+shop-list.Entities/obj/Debug/net6.0/shop-list.Entities.GeneratedMSBuildEditorConfig.editorconfig
+shop-list.Entities/obj/Debug/net6.0/shop-list.Entities.GlobalUsings.g.cs
+shop-list.Entities/obj/Debug/net6.0/shop-list.Entities.MvcApplicationPartsAssemblyInfo.cache
+shop-list.Entities/Models/Admin.cs
+shop-list.Entities/Models/BaseEntity.cs
+shop-list.Entities/Models/Channel.cs
+shop-list.Entities/Models/Programa.cs
+shop-list.Entities/Models/User.cs
+shop-list.Entities/Models/Users_Channel_list.cs
+shop-list.Entities/Context.cs
+shop-list.Entities/shop-list.Entities.csproj
+shop-list.Entities/Models/Admin.cs
+shop-list.Entities/Models/BaseEntity.cs
+shop-list.Entities/Models/Channel.cs
+shop-list.Entities/Models/Programa.cs
+shop-list.Entities/Models/User.cs
+shop-list.Entities/Models/Users_Channel_list.cs
+shop-list.Entities/obj/shop-list.Entities.csproj.nuget.dgspec.json
+shop-list.Entities/obj/Debug/net6.0/project.razor.json
+shop-list.Entities/obj/Debug/net6.0/shop-list.Entities.AssemblyInfoInputs.cache
+shop-list.Entities/obj/Debug/net6.0/shop-list.Entities.csproj.CoreCompileInputs.cache
+shop-list.Entities/obj/Debug/net6.0/shop-list.Entities.csproj.FileListAbsolute.txt
+shop-list.Entities/obj/Debug/net6.0/shop-list.Entities.GeneratedMSBuildEditorConfig.editorconfig
+shop-list.Entities/obj/Debug/net6.0/shop-list.Entities.GlobalUsings.g.cs
+shop-list.Entity/bin/Debug/net6.0/shop-list.Entity.dll
+shop-list.Entity/bin/Debug/net6.0/shop-list.Entity.pdb
+**/.vs 
 **/obj
+**/bin
 **/logs
+shop-list.Entity/bin/Debug/net6.0/shop-list.Entity.dll
+shop-list.Entity/bin/Debug/net6.0/shop-list.Entity.pdb
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+shop-list/.gitignore at main · StepanovaDiana/shop-list
